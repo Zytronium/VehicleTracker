@@ -2,7 +2,6 @@
 """
 module for a vehicle tracker
 """
-from logging import exception
 
 
 class Vehicle:
